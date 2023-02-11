@@ -13,8 +13,5 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>unit-test</name>
 	<description>unit-test</description>
-	<properties>
-		<java.version>1.8</java.version>
-	</properties>
 
 </project>
