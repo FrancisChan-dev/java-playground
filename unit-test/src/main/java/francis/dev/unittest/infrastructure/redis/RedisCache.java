@@ -1,7 +1,8 @@
-package francis.dev.unittest;
+package francis.dev.unittest.infrastructure.redis;
 
 
 import com.google.gson.Gson;
+import francis.dev.unittest.infrastructure.Cache;
 import io.lettuce.core.RedisClient;
 import io.lettuce.core.api.StatefulRedisConnection;
 import java.util.Optional;
