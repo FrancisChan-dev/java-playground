@@ -19,6 +19,7 @@
   <modules>
     <module>unit-test</module>
     <module>concurrent</module>
+    <module>reactor</module>
   </modules>
 
   <properties>
